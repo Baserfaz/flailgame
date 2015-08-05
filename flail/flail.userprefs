@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\gamemaster.cs">
+    <Files>
+      <File FileName="Assets\scripts\gamemaster.cs" Line="96" Column="45" />
+      <File FileName="Assets\scripts\flail.cs" Line="58" Column="4" />
+      <File FileName="Assets\enemy.cs" Line="11" Column="2" />
+      <File FileName="Assets\nugget.cs" Line="18" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
